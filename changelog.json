@@ -1,8 +1,8 @@
 {
-    6: {"GAMEPLAY", "Hefgdgfllo"},
-    5: {"FIX", "Hefdgfgdllo"},
-    4: {"CODING", "Helfdsfdgsflo"},
-    3: {"BUILD", "Heasdasdasllo"},
-    2: {"OTHER", "Hefsfsdfdsllo"},
-    1: {"OHTER", "arararHello"},
+    6: {"TYPE": "GAMEPLAY", "MSG": "raaaaaaaaaarHefgdgfllo"},
+    5: {"TYPE": "FIX", "MSG": "Hefgdgfllaaaaaaaaaaao"},
+    4: {"TYPE": "CODING", "MSG": "Hefgdgfllo"},
+    3: {"TYPE": "OTHER", "MSG": "Hefgdgflfffffffffffflo"},
+    2: {"TYPE": "BUILD", "MSG": "Hefgdssssssssssssssgfllo"},
+    1: {"TYPE": "OTHER", "MSG": "Hefgdgfllo"}
 }
