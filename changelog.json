@@ -1,4 +1,6 @@
 {
+	"3": {"TYPE": "FIX", "MSG": "Fixed Job NPCs and Gun Saving"},
+	"2": {"TYPE": "FIX", "MSG": "Fixed Hi Point"},
 	"1": {"TYPE": "OTHER", "MSG": "Welcome to South Bronx 2"}
 }
 
