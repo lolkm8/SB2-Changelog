@@ -1,4 +1,5 @@
 {
+	"4": {"TYPE": "CODING", "MSG": "You can no longer enter SafeZones whilst in combat."},
 	"3": {"TYPE": "FIX", "MSG": "Fixed Job NPCs and Gun Saving"},
 	"2": {"TYPE": "FIX", "MSG": "Fixed Hi Point"},
 	"1": {"TYPE": "OTHER", "MSG": "Welcome to South Bronx 2"}
